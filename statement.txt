@@ -1,0 +1,62 @@
+------------------Versus Statments---------------------
+1 age between 18 to 21 and study hours per week greater than 30. //
+2 gender f/m and pref. learning style and study hours per week.  // 
+3 pref. learning style is auditory and study hours per week greater than 30 and participate in discussion= y/n.
+4 pref. learning style is kinesthetic and use of educational tech is yes or no.
+5 Self Reported stress(high, low, medium) and exam score.
+6 Self Reported stress is high and exam score is greater than 60.
+7 Impact of high stress on students’ sleep hours per night.
+8 Number of online courses completed by students with high vs. low stress.
+9 Do students with higher attendance rates perform better on exams?
+10 Do students with high assignment completion rates have lower stress levels?
+11 How does sleep deprivation impact exam scores?
+12 Do students who use educational technology score higher in exams?
+13 Are students who spend more time on social media more stressed?
+14 Does lower attendance lead to higher dropout rates?
+15 Are students with high online course completion rates more independent learners?
+16 Do students who participate in discussions perform better on assignments? 
+17 Are students with higher participation rates more confident in learning?
+18 Does excessive use of educational technology lead to higher stress?
+19 Do students with better attendance have higher self-discipline?
+20 Do students with high social media usage perform worse in exams?
+21 How do learning styles affect assignment completion rates?
+22 Does multitasking (social media + studying) affect final grades?
+23 Are younger students more adaptable to online courses than older students?
+
+
+
+------------------Discriptive Statments---------------------
+1 lowest age and lowest study hours per week.
+2 age pref. learning style and course completed.
+3 Attendance rate and assignment completion rate more than 50.
+4 Online course completed more than 6 and attendance rate is between 60 to 70.
+5 Number of online courses completed by students who study more than 20 hours per week.
+6 Is there a threshold for optimal study hours per week?
+7 What are the most common learning styles among college students aged 18 to 21?
+8 How many hours per week do students typically spend studying?
+9 What percentage of students use educational technology regularly in their studies?
+10 What is the average stress level reported by students across different age groups?
+
+------------------correlational Statments---------------------
+1 social media usage per week and study hour per week.
+2 online course completion and academic performance.
+3 Study hours per week and sleep hours per night.
+4 Relationship between sleep hours per night and exam scores.
+5 Does studying more always lead to better exam scores?
+6 How does time spent on social media correlate with study hours?
+7 Is there a link between participation in discussions and stress levels?
+8 How do study hours relate to assignment completion rates?
+9 What is the relationship between attendance rate and academic performance?
+10 How does participation in class discussions relate to confidence in learning?
+
+------------------casual/impact Statments---------------------
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

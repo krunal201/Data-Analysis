@@ -1,0 +1,15 @@
+1] age and study hour per week.
+2] age between 18 to 21 and study hours per week greater than 30.
+3] lowest age and lowest study hours per week.
+4] highest age and lowest study hours per week.
+5] age pref. learning style and course completed.
+6] gender f/m and pref. learning style and study hours per week.
+7] pref. learning style is auditory and study hours per week greater than 30 and participate in discussion= y/n.
+8] pref. learning style is kinesthetic and use of educational tech is yes or no.
+9] social media usage per week and study hour per week.
+10] online course completion and academic performance.
+11] Self Reported stress(high, low, medium) and exam score.
+12] Self Reported stress is high and exam score is greater than 60.
+13] Attendance rate and assignment completion rate more than 50.  
+14] Online course completed more than 6 and attendance rate is between 60 to 70. 
+15] Study hours per week and sleep hours per night.
