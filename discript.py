@@ -56,11 +56,11 @@ study_df=pd.DataFrame(
 print(study_df)
 
 #9
-social=df['Use_of_Educational_Tech'].value_counts(normalize=True)['Yes'] * 100
-usage=pd.DataFrame(
+social=df['Use_of_Educational_Tech'].value_counts(normalize=True) * 100
+use_df=pd.DataFrame(
     {
-        'Use':socail.index,
-        'Per':socail.values
+        'Tech':['Yes'],
+        'Per':[social]
     }
 )
-print(social)
+print(use_df)
